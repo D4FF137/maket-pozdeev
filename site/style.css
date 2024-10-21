@@ -150,7 +150,7 @@ body{
 .header-card-content-item h3{
   color: #252B42;
   font-size: 24px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 .header-card-content-item p{
   color: #737373;
@@ -158,5 +158,14 @@ body{
   margin-top: 5px;
 }
 .active{
-  
+  background-color: #23A6F0;
+}
+.active h3{
+  color: #fff;
+}
+.active p{
+  color: #fff;
+}
+.active img{
+  color: #fff;
 }
