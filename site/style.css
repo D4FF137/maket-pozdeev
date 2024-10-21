@@ -14,7 +14,7 @@
   font-weight: bold;
 }
 header{
-  background-image: url(./background.png);
+  background-image: url(./src/photo/background.png);
   color: white;
   background-repeat: no-repeat;
   width: 100%;
